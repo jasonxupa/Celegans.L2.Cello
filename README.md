@@ -1,13 +1,13 @@
 C. elegans L2 single cell data for VisCello
 ================
-Preprocessed by Jonathan Packer and Qin Zhu 
+Prepared by Jonathan Packer and Qin Zhu 
 
 Online version
 ------------------------
 
 Link: https://cello.shinyapps.io/L2celegans/
 
-Bugs you found with the online tool please post to this github repo.
+Bugs you found with the online tool please post to https://github.com/qinzhu/VisCello.
 
 Usage
 --------------------------------------
