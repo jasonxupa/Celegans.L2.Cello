@@ -20,7 +20,7 @@ Usage
 
 ```r
 library(VisCello)
-cello("~/Download/Celegans.L2.Cello") # Change path if necessary
+cello("~/Downloads/Celegans.L2.Cello") # Change path if necessary
 ```
 
 
