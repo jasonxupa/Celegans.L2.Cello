@@ -27,9 +27,9 @@ cello("~/Downloads/Celegans.L2.Cello") # Change path if necessary
 See also:
 --------------------------------------
 
-* C.elegans embryogenesis data and tool: https://github.com/qinzhu/VisCello.celegans
+* C. elegans embryogenesis data and tool: https://github.com/qinzhu/VisCello.celegans
 
-* C.elegans Tintori et al. data (up to 16 cell stage): https://github.com/qinzhu/Celegans.Tintori.Cello
+* C. elegans Tintori et al. data (up to 16 cell stage): https://github.com/qinzhu/Celegans.Tintori.Cello
 
 
 Cite VisCello
