@@ -7,7 +7,7 @@ Prepared for VisCello by Jonathan Packer and Qin Zhu
 Online version
 ------------------------
 
-Link: https://cello.shinyapps.io/celegans.L2/
+Link: https://cello.shinyapps.io/celegans_L2/
 
 Bugs you found with the online tool please post to https://github.com/qinzhu/VisCello.
 
