@@ -1,11 +1,12 @@
 C. elegans L2 single cell data for VisCello
 ================
-Prepared by Jonathan Packer and Qin Zhu 
+Data from Cao, Junyue, et al., 2017
+Prepared for VisCello by Jonathan Packer and Qin Zhu 
 
 Online version
 ------------------------
 
-Link: https://cello.shinyapps.io/L2celegans/
+Link: https://cello.shinyapps.io/celegans.L2/
 
 Bugs you found with the online tool please post to https://github.com/qinzhu/VisCello.
 
@@ -22,6 +23,13 @@ Usage
 library(VisCello)
 cello("~/Downloads/Celegans.L2.Cello") # Change path if necessary
 ```
+
+See also:
+--------------------------------------
+
+* C.elegans embryogenesis data and tool: https://github.com/qinzhu/VisCello.celegans
+
+* C.elegans Tintori et al. data (up to 16 cell stage): https://github.com/qinzhu/Celegans.Tintori.Cello
 
 
 Cite VisCello
